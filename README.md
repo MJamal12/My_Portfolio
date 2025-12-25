@@ -2,7 +2,7 @@
 
 My professional portfolio website showcasing my experience as a Full Stack Developer and Software Engineer.
 
-Visit at: malikjamalportfolio.com
+Visit at: [malikjamalportfolio.com](https://malikjamalportfolio.com/)
 
 ## 🔗 Connect
 
