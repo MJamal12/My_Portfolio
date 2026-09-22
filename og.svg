@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Malik Jamal — Software Engineer">
+  <defs>
+    <radialGradient id="bloom" cx="50%" cy="0%" r="70%">
+      <stop offset="0%" stop-color="#e9a63f" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#e9a63f" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="#0b0b0d"/>
+  <rect width="1200" height="630" fill="url(#bloom)"/>
+
+  <rect x="80" y="78" width="62" height="62" rx="16" fill="#e9a63f"/>
+  <text x="111" y="112" fill="#16130c" text-anchor="middle" dominant-baseline="central"
+        font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="26" font-weight="700">MJ</text>
+
+  <text x="80" y="300" fill="#f2f0ed"
+        font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif"
+        font-size="104" font-weight="640" letter-spacing="-4.5">Malik Jamal</text>
+
+  <text x="80" y="362" fill="#f0b65c"
+        font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="26" letter-spacing="1">Software Engineer  /  Cleveland, OH</text>
+
+  <text x="80" y="446" fill="#a5a29c"
+        font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif"
+        font-size="29">I build production web applications end to end —</text>
+  <text x="80" y="488" fill="#a5a29c"
+        font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif"
+        font-size="29">React 19, Python, Node. Shipped and in daily use.</text>
+
+  <rect x="80" y="548" width="1040" height="1" fill="#ffffff" fill-opacity="0.1"/>
+  <text x="80" y="586" fill="#82807b"
+        font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="21">malikjamalportfolio.com</text>
+  <text x="1120" y="586" fill="#82807b" text-anchor="end"
+        font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="21">github.com/MJamal12</text>
+</svg>
